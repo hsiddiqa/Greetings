@@ -1,0 +1,14 @@
+C:\Users\hsiddiqa\source\repos\Greetings\Greetings\bin\Debug\Greetings.exe.config
+C:\Users\hsiddiqa\source\repos\Greetings\Greetings\bin\Debug\Greetings.exe
+C:\Users\hsiddiqa\source\repos\Greetings\Greetings\bin\Debug\Greetings.pdb
+C:\Users\hsiddiqa\source\repos\Greetings\Greetings\obj\Debug\Greetings.csprojAssemblyReference.cache
+C:\Users\hsiddiqa\source\repos\Greetings\Greetings\obj\Debug\MainWindow.g.cs
+C:\Users\hsiddiqa\source\repos\Greetings\Greetings\obj\Debug\App.g.cs
+C:\Users\hsiddiqa\source\repos\Greetings\Greetings\obj\Debug\Greetings_MarkupCompile.cache
+C:\Users\hsiddiqa\source\repos\Greetings\Greetings\obj\Debug\Greetings_MarkupCompile.lref
+C:\Users\hsiddiqa\source\repos\Greetings\Greetings\obj\Debug\MainWindow.baml
+C:\Users\hsiddiqa\source\repos\Greetings\Greetings\obj\Debug\Greetings.g.resources
+C:\Users\hsiddiqa\source\repos\Greetings\Greetings\obj\Debug\Greetings.Properties.Resources.resources
+C:\Users\hsiddiqa\source\repos\Greetings\Greetings\obj\Debug\Greetings.csproj.GenerateResource.cache
+C:\Users\hsiddiqa\source\repos\Greetings\Greetings\obj\Debug\Greetings.exe
+C:\Users\hsiddiqa\source\repos\Greetings\Greetings\obj\Debug\Greetings.pdb
